@@ -2,7 +2,7 @@
 
 This project is predicting survival on the Titanic.
 
-I got the best accuracy rate by SVM(Support Vector Machine).
+I got the best accuracy rate(78.9%) by SVM(Support Vector Machine).
 
 titanicKaggle2.ipynb is the final result.
 
